@@ -1,0 +1,10 @@
+{
+  "appId": "com.roohu.roomail",
+  "appName": "RooMail",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
